@@ -2,6 +2,9 @@ dview-text-view
 ![Release](https://jitpack.io/v/dora4/dview-text-view.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 字符编织者](https://github.com/user-attachments/assets/a161800c-34ce-4041-af2f-b9670c77306e)
+
 #### Gradle依赖配置
 
 ```groovy
